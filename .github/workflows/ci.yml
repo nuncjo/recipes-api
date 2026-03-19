@@ -46,4 +46,3 @@ jobs:
           junit-path:
             pytest.xml
           show-diffcover: 'true'
-
